@@ -1,3 +1,5 @@
+# My project lacks the commit history because I had issues uploading large ML_model file, we used git lfs but it did'nt work. We had to initialize the git repository. I did this work with Vasi and Mark Briscoe, who can back up my statement. We spent 3-4 hours to fix the repository on Friday 13/06/2025.
+
 # California House Prices
 
 **California House prices** is a comprehensive data analysis tool designed to provide analysis of housing prices across California based on demographic and population features.

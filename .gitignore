@@ -1,0 +1,14 @@
+core.Microsoft*
+core.mongo*
+core.python*
+env.py
+__pycache__/
+*.py[cod]
+node_modules/
+.github/
+cloudinary_python.txt
+kaggle.json
+.venv/
+venv/
+outputs/datasets/cleaned/ML_model.pkl
+.test_for_git/
